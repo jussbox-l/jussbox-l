@@ -1,4 +1,4 @@
-# 👋 Hi, I'm jussbox-l!
+# 👋 Hi, I'm jussbox!
 
 **Homelab Enthusiast** | Documenting & Learning Proxmox, Networking, & Self-Hosted Services
 
